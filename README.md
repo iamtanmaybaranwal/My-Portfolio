@@ -1,2 +1,2 @@
 # iamtanmaybaranwal
-My Protfolio
+My Portfolio
